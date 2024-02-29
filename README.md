@@ -75,5 +75,5 @@ Our custom pressure sensors, crafted from cutting-edge velostat material, boast 
 ## 7. Initial Prototype <a name="need-statement"></a>
 
 <p align="center">
-<img src="Media/initial_prototypr.jpg" alt="Initial Prototype" width="400"/>
+<img src="Media/initial_prototype.jpg" alt="Initial Prototype" width="400"/>
 </p>
