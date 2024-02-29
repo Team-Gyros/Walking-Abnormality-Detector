@@ -8,6 +8,7 @@
 4. [Predicated Device](#predicated-device)
 5. [Features](#features)
 6. [Functional Block Diagram](#functional-block-diagram)
+7. [Initial Prototype](#initial-prototype)
 
 
 ## 1. Need Statement <a name="need-statement"></a>
@@ -65,9 +66,10 @@ Software (GUI)
 
 Our custom pressure sensors, crafted from cutting-edge velostat material, boast unparalleled accuracy and sensitivity. These sensors respond dynamically to pressure changes, ensuring precise data collection for enhanced diagnostics. The high sensor density further optimizes the device's ability to capture and interpret subtle variations in pressure, elevating diagnostic capabilities to new heights.
 
-## 6. Functional Block Diagram <a name="functional-block-diagram"></a>
+## 6. Functional Block Diagram <a name="initial-prototype"></a>
 
 <p align="center">
 <img src="Media/Functional_Block.png" alt="Functional Block Diagram" width="400"/>
 </p>
 
+## 7. Initial Prototype <a name="need-statement"></a>
