@@ -1,4 +1,4 @@
-# Walking Abnormality Aetector
+# Walking Abnormality Detector
 1. [Need Statement](#need-statement)
 2. [Proposed Solution - Pressure-Measuring Footwear](#proposed-solution---a-pressure-measuring-footwear)
 3. [Components](#components)
